@@ -1,0 +1,9 @@
+{
+  "name": "Calculadora de cuenta compartida",
+  "short_name": "Cuenta",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f2f7",
+  "theme_color": "#007aff",
+  "lang": "es"
+}
